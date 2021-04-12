@@ -83,10 +83,10 @@ int main(int argc, char* argv[])
         case 'U':
             U_Count++;
             break;
-        case 'b':
+        case 'B':
             U_Count++;
             break;
-        case 'c':
+        case 'C':
             U_Count++;
             break;
         case 'D':
